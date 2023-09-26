@@ -24,7 +24,7 @@ O objetivo deste teste é avaliar a habilidade do candidato em transformar wiref
    - Crie uma pequena documentação simples (arquivo README.md no repositório do github) descrevendo sua temática, abordagem e qual foi o wireframe escolhido (nada muito complexo).
 
 5. **Envio do Projeto**
-   - Envie o link do repositório no GitHub para o e-mail: weslley@omnisaude.co (lembrando que esse repositório deve ser público e deve conter o arquivo README.md que conterá a documentação)
+   - Envie o link do repositório no GitHub para o e-mail: weslley@omnisaude.co (lembrando que esse repositório deve ser público e deve ter um arquivo README.md onde estará a sua documentação citada no item 4)
    - O e-mail deve ter o assunto: "Projeto para Estágio Front-end - [seu nome]"
 
 6. **Prazo**
