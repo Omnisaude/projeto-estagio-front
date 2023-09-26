@@ -1,4 +1,4 @@
-# Projeto para Estágio - Omnisaúde
+# Projeto para Estágio Front-end - Omnisaúde
 
 ## Objetivo
 O objetivo deste teste é avaliar a habilidade do candidato em transformar wireframes em interfaces web funcionais usando apenas HTML, CSS e JavaScript (vanilla). Será avaliada a estruturação HTML, a estilização CSS e a implementação de interatividade usando JavaScript.
